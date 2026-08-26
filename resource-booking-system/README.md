@@ -26,6 +26,8 @@ Open MySQL:
 ```sql
 CREATE DATABASE resource_booking;
 ```
+##Start MySQL server
+--- brew services start mysql
 
 The application defaults to:
 
